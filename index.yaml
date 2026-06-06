@@ -3,12 +3,12 @@ entries:
   eff:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-06-07T00:48:49.029977916+03:00"
+    created: "2026-06-07T00:56:27.92293433+03:00"
     description: Helm chart for EFF application (backend + frontend + python-service)
-    digest: 590c01192e61798977515463c28bb1520bad7b641f7e8b30de955701868b8d46
+    digest: abba4e7924144f45e10648e5b88c33a5ae8ca7a7552a9c740e1fcc501c9c7882
     name: eff
     type: application
     urls:
-    - https://mestb3a3iip.github.io/appeff/eff-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-06-07T00:48:49.029537019+03:00"
+    - https://MeSTb3a3I1p.github.io/appeff/eff-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-06-07T00:56:27.922596017+03:00"
